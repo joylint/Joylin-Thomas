@@ -1,31 +1,129 @@
-# Joylin Thomas — Content Writing & AI Content Editing Portfolio
+<div align="center">
 
-Content Writer | AI Content Editor | SEO Content Specialist
+# Hi 👋, I'm Joylin Thomas
 
-I write, edit, and optimize content for SaaS products and digital marketing — blog posts, landing pages, knowledge base articles, and AI-assisted content workflows. This repository is a working sample of that range: original writing, before/after editing, and the process documents I use to keep content consistent and search-friendly.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+Content+Editor;Technical+Content+Writer;SEO+%7C+AEO+%7C+GEO+Specialist;Prompt+Engineer;SaaS+Content+Creator" alt="Typing SVG" />
 
-📧 joylinthijshanu99@gmail.com · 🔗 [linkedin.com/in/joylin-thomas](https://linkedin.com/in/joylin-thomas) · 📍 Thrissur, Kerala, India
+### ✍️ Transforming complex ideas into clear, engaging, and search-optimized content.
 
-*Note: client names, products, and metrics in these samples are illustrative — created to demonstrate approach and writing quality, not tied to a real client's confidential work.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joylin-thomas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joylint/content-portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joylinthijshanu99@gmail.com)
+
+</div>
 
 ---
 
-## What's in here
+# 👩‍💻 About Me
 
-| Folder | What it shows |
-|---|---|
-| [`01-seo-blog-post/`](./01-seo-blog-post) | A full SEO blog post with target keyword, meta title, and meta description |
-| [`02-landing-page-copy/`](./02-landing-page-copy) | SaaS product landing page — hero, features, FAQ, CTA copy |
-| [`03-ai-content-editing/`](./03-ai-content-editing) | A raw AI-generated draft next to my edited version, with editor's notes explaining every change |
-| [`04-knowledge-base/`](./04-knowledge-base) | A step-by-step product help center article |
-| [`05-google-business-profile/`](./05-google-business-profile) | Google Business Profile posts and review response templates |
-| [`06-prompt-engineering/`](./06-prompt-engineering) | The prompt library I use for content ideation, drafting, and AEO/GEO optimization |
-| [`07-content-strategy/`](./07-content-strategy) | An SEO content audit framework — how I evaluate and prioritize what to fix |
+- ✨ AI Content Editor with **5+ years of content writing experience**
+- 🚀 Specializing in **Technical Writing, SaaS Content, SEO, AEO & GEO**
+- 🤖 Experienced with **Generative AI & Prompt Engineering**
+- 📈 Passionate about creating content that ranks, educates, and converts
+- 📚 Skilled in technical documentation, knowledge bases, blogs, landing pages, and product content
+- 🌱 Currently learning **Python** and **AI Automation**
+- 📍 Thrissur, Kerala, India
 
-## Core skills
+---
 
-Content Writing · Technical Content Writing · SEO Content Writing · Content Editing · Proofreading · Copywriting · Keyword Research · Content Strategy · Generative AI · Prompt Engineering · AEO & GEO · Team Leadership & Mentoring · Client & Stakeholder Management
+# 🛠 Core Skills
 
-## Tools
+### ✍️ Content
 
-Microsoft Office Suite · ChatGPT & Generative AI Tools · Google Business Profile · WordPress · Canva · Grammarly · Google Keyword Planner · SE Ranking
+![Technical Writing](https://img.shields.io/badge/Technical%20Writing-blue?style=flat-square)
+![SEO Writing](https://img.shields.io/badge/SEO%20Content-success?style=flat-square)
+![Copywriting](https://img.shields.io/badge/Copywriting-orange?style=flat-square)
+![Content Strategy](https://img.shields.io/badge/Content%20Strategy-red?style=flat-square)
+![Documentation](https://img.shields.io/badge/Documentation-informational?style=flat-square)
+
+### 🤖 AI
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blueviolet?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### 🔍 Search Optimization
+
+- SEO
+- On-page SEO
+- Keyword Research
+- Search Intent
+- AEO (Answer Engine Optimization)
+- GEO (Generative Engine Optimization)
+
+---
+
+# 🧰 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode,wordpress"/>
+
+</p>
+
+- ChatGPT
+- Google Gemini
+- Grammarly
+- Canva
+- Google Docs
+- Microsoft Office
+- Google Business Profile
+- Google Search Console
+
+---
+
+# 📂 Featured Portfolio
+
+| Project | Description |
+|----------|-------------|
+| 📝 SEO Blog | Long-form SEO blog with keyword research |
+| 📄 Landing Page | SaaS landing page copy |
+| 🤖 AI Editing | AI draft vs human-edited content |
+| 📚 Knowledge Base | Product documentation |
+| ⭐ Google Business Profile | GBP posts & review responses |
+| 💡 Prompt Engineering | AI prompt library |
+| 📈 Content Strategy | SEO content audit & planning |
+
+➡️ **View Portfolio:**  
+**https://github.com/joylint/content-portfolio**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joylint&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joylint&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌟 What I Enjoy
+
+📖 Reading about AI & SaaS
+
+✍️ Technical & SEO Writing
+
+🤖 Exploring AI Tools
+
+🚀 Learning New Technologies
+
+💡 Prompt Engineering
+
+📈 Content Marketing
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*"Great content doesn't just rank—it solves problems, builds trust, and creates impact."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
